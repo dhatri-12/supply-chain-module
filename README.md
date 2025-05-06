@@ -4,8 +4,8 @@ This project was created for Engineering the Supply Chain course (Spring 2025) a
 
 Core Techniques used:
 
-- **📈 Weighted Moving Average (WMA) Forecasting** – implemented from scratch using NumPy  
-- **🔧 Production & Inventory Planning** – formulated using Linear Programming via PuLP
+- ** Weighted Moving Average (WMA) Forecasting** – implemented from scratch using NumPy  
+- ** Production & Inventory Planning** – formulated using Linear Programming via PuLP
 
 ---
 
@@ -20,7 +20,7 @@ Core Techniques used:
 
 ---
 
-## 🗂️ File Structure
+## File Structure
 
 ```
 supply-chain-planning-module/
@@ -35,7 +35,7 @@ supply-chain-planning-module/
 
 ---
 
-## ▶️ How to Run the Module
+## How to Run the Module
 
 ### 1. Install required libraries
 ```bash
@@ -54,7 +54,7 @@ The script will:
 
 ---
 
-## 📚 Data Source
+## Data Source
 
 The first 6 months of demand and cost data are adapted from:
 
