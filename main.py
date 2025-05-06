@@ -5,9 +5,6 @@ from wma_forecaster import WMAForecaster
 # === Step 1: Load data ===
 df = pd.read_csv("./data/red_tomato_demand.csv")
 
-print("Loaded columns:", df.columns.tolist())
-
-
 # Extract input vectors
 demand = df["Demand"].tolist()
 prod_cost = df["Prod_Cost"].tolist()
