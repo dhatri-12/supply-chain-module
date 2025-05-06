@@ -4,8 +4,8 @@ This project was created for Engineering the Supply Chain course (Spring 2025) a
 
 Core Techniques used:
 
-- **📈 Weighted Moving Average (WMA) Forecasting** – implemented from scratch using NumPy  
-- **🔧 Production & Inventory Planning** – formulated using Linear Programming via PuLP
+- ** Weighted Moving Average (WMA) Forecasting** – implemented from scratch using NumPy  
+- ** Production & Inventory Planning** – formulated using Linear Programming via PuLP
 
 ---
 
